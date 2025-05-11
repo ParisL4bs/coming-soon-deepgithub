@@ -33,7 +33,7 @@ function BackgroundBeamsDemo() {
             </div>
           </motion.div>
         </div>
-        <h1 className="relative z-10 text-lg md:text-7xl leading-[1.3] bg-clip-text text-transparent bg-gradient-to-b from-white via-white/90 via-70% to-muted-foreground text-center font-bold">
+        <h1 className="relative z-10 text-4xl md:text-7xl leading-[1.3] pb-2 bg-clip-text text-transparent bg-gradient-to-b from-white via-white/90 via-70% to-muted-foreground text-center font-bold">
           Coming soon...
         </h1>
         <p></p>
